@@ -38,11 +38,9 @@ This project may include:
 
 ---
 
-📦 Installation
+📦 Installation - 
 
-Clone the repository:
-
-git clone https://github.com/your-username/shree-digital-library.git
+clone repo
 
 Go to the project folder:
 
